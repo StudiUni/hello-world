@@ -1,2 +1,5 @@
 # hello-world
-Mit diesem Projekt lerne ich GitHub kennen.
+
+Hallo!
+
+Dies ist mein erstes Projekt in GitHub. Im Moment bin ich noch leicht überfordert, aber das legt sich sicher ganz schnell.
